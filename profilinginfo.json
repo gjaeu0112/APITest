@@ -92,6 +92,10 @@
         [
             "CUSC08",
             "Cox"
+        ],
+        [
+            "CUSC09",
+            "CFE TEIT"
         ], 
         [
             "CUSD03",
@@ -263,6 +267,10 @@
             "MobiFone"
         ],
         [
+            "CUSM06",
+            "Mobicom"
+        ],
+        [
             "CUM511",
             "MSO"
         ],
@@ -289,6 +297,10 @@
         ],
         [
             "CUSO02",
+            "PNO"
+        ],
+        [
+            "CUSD04",
             "Orange"
         ],
         [
@@ -374,6 +386,10 @@
         [
             "CUST17",
             "TPG Singapore"
+        ],
+        [
+            "CUST18",
+            "TMO"
         ],
         [
             "TST",
@@ -510,6 +526,14 @@
         [
             "SYS_008",
             "VM_CU"
-        ]
+        ],
+        [
+            "SYS_010",
+            "SmallCell"
+        ],
+        [
+            "SYS_011",
+            "VM_DU"
+        ],
     ]
 }
