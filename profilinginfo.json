@@ -454,6 +454,22 @@
         [
             "CUSY01",
             "YTL"
+        ],
+        [
+            "CUSC09",
+            "CFE TEIT"
+        ],
+        [
+            "CUSM06",
+            "Mobicom"
+        ],
+        [
+            "CUSPNO",
+            "PNO"
+        ],
+        [
+            "CUST11",
+            "TMO"
         ]
     ],
     "Description": "",
@@ -510,6 +526,14 @@
         [
             "SYS_008",
             "VM_CU"
+        ],
+        [
+            "SYS_010",
+            "Smallcell"
+        ],
+        [
+            "SYS_011",
+            "VM_DU"
         ]
     ]
 }
