@@ -500,6 +500,10 @@
             "non-vRAN"
         ],
         [
+            "SYS_010",
+            "Smallcell"
+        ],
+        [
             "SYS_002",
             "vRAN"
         ],
@@ -526,10 +530,6 @@
         [
             "SYS_008",
             "VM_CU"
-        ],
-        [
-            "SYS_010",
-            "Smallcell"
         ],
         [
             "SYS_011",
